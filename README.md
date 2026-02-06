@@ -24,6 +24,11 @@ I am a passionate student from **Siddhartha Maha Vidyalaya**, currently explorin
 - 📍 Based in Anuradhapura, Sri Lanka.
 
 ---
+
 <p align="center">
-  ![Vihanga's Stats](https://github-readme-stats.vercel.app/api?username=Vihanga-Sulakshana&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Vihanga-Sulakshana&show_icons=true&theme=radical" alt="Vihanga's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihanga-Sulakshana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
