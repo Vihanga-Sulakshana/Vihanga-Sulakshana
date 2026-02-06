@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Vihanga Sulakshana! 🇱🇰
 
-<!--
-**Vihanga-Sulakshana/Vihanga-Sulakshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Student & Aspiring Developer
+I am a passionate student from **Siddhartha Maha Vidyalaya**, currently exploring the world of software development and Information Technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+- 🐍 **Programming:** Learning Python
+- 🌐 **Web:** HTML5, CSS3
+- 🔧 **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🎯 My Goals for 2026
+- [ ] Master Python basics
+- [ ] Build my first web application
+- [ ] Contribute to open-source projects
+
+---
+
+### 📫 Connect with me
+- 💻 My GitHub Profile is where I showcase my journey.
+- 📍 Based in Anuradhapura, Sri Lanka.
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vihanga-Sulakshana&show_icons=true&theme=radical" alt="Vihanga's Stats" />
+</p>
