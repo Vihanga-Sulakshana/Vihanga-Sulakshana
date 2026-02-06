@@ -25,5 +25,5 @@ I am a passionate student from **Siddhartha Maha Vidyalaya**, currently explorin
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vihanga-Sulakshana&show_icons=true&theme=radical" alt="Vihanga's Stats" />
+  ![Vihanga's Stats](https://github-readme-stats.vercel.app/api?username=Vihanga-Sulakshana&show_icons=true&theme=radical)
 </p>
